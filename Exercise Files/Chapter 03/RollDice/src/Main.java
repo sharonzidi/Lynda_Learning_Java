@@ -15,7 +15,7 @@ public class Main {
                 System.out.println("number: " + d.roll());
             }
         } else{
-            System.out.println("game over!");
+            System.out.println("game over");
         }
     }
 }
