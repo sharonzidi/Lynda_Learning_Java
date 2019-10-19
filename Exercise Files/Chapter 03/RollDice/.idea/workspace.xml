@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a62d2609-4155-4904-9927-3373913daddd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3e8a0916-54c9-41e2-9c2c-3ad0250c315f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../03_08/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RollDice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_05/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03_05/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_08/begin/src/Dice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../03_08/begin/src/Dice.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,11 +26,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/begin/src/Main.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Dice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -31,10 +49,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
@@ -49,28 +67,27 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="03_05" type="b2602c69:ProjectViewProjectNode" />
-              <item name="begin" type="462c0819:PsiDirectoryNode" />
+              <item name="RollDice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RollDice" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="03_05" type="b2602c69:ProjectViewProjectNode" />
-              <item name="begin" type="462c0819:PsiDirectoryNode" />
+              <item name="RollDice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RollDice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -89,39 +106,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="begin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a62d2609-4155-4904-9927-3373913daddd" name="Default Changelist" comment="" />
-      <created>1571382499106</created>
+      <changelist id="3e8a0916-54c9-41e2-9c2c-3ad0250c315f" name="Default Changelist" comment="" />
+      <created>1571471889234</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571382499106</updated>
-      <workItem from="1571382500482" duration="240000" />
+      <updated>1571471889234</updated>
+      <workItem from="1571471890527" duration="232000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="240000" />
+    <option name="totallyTimeSpent" value="232000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="823" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -130,15 +134,14 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32968536" />
+      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.6990424" />
+      <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32968536" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -157,11 +160,47 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/begin/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Dice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
         </state>
       </provider>
     </entry>

@@ -4,6 +4,7 @@ public class Dice {
     Random rand;
 
     public Dice() {
+
         this.rand = new Random();
     }
 
