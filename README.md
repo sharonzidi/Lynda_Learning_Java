@@ -1,2 +1,2 @@
-# Java learning files
+# Java Exercise Files
 Here are my Java exercise files.
